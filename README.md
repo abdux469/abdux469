@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currentely a student at Bursa Technical University.
+Hello There, I am currentely a Computrer Engineering Student at Bursa Technical University.
 
 
 ## 🌐 Socials:
@@ -16,6 +16,5 @@ I am currentely a student at Bursa Technical University.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ABDU X&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
